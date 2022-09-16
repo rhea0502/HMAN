@@ -6,7 +6,6 @@
  * <br>MEDIUM picks the hardest word for three rounds, then the second hardest word,
  * then the hardest word for three rounds, then the second hardest word, and so forth.
  * <br>HARD always picks the hardest word.
- * @author scottm
  *
  */
 public enum HangmanDifficulty {
