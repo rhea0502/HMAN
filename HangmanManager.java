@@ -1,15 +1,4 @@
-/*  Student information for assignment:
- *
-*  On my honor, Rhea, this programming assignment is my own work
-*  and I have not provided this code to any other student.
-*
- *  Name: Rhea Mudnal
- *  email address: rheamudnal@utexas.edu
- *  UTEID: rsm2983
- *  Section 5 digit ID: 51185
- *  Grader name: Elizabeth
- *  Number of slip days used on this assignment: 1
- */
+
 
 import java.util.ArrayList;
 import java.util.Collections;
